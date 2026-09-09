@@ -32,3 +32,4 @@ This project is an interactive math quiz game where the player can choose the nu
 - Conditional Statements
 - Random Number Generation
 - Problem Solving
+Add Math Quiz Game screenshot
