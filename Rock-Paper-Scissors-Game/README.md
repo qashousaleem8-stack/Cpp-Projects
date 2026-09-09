@@ -17,7 +17,9 @@ This project allows the player to play multiple rounds of Rock Paper Scissors ag
 - Tracks player wins, computer wins, and draws
 - Changes the console color based on the game result
 - Option to play again
+## Game Output
 
+![Rock Paper Scissors Game Output](game-output.png)
 ## Technologies Used
 
 - C++
